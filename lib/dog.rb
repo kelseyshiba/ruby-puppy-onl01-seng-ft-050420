@@ -21,4 +21,8 @@ class Dog
     end
   end
   
+  def @@clear_all
+  
+  end
+  
 end
