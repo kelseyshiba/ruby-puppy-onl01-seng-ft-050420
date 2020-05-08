@@ -3,7 +3,7 @@ class Dog
   @@all = []
   
   def initialize
-  @@all < self
+    save
   end
   
   def save
