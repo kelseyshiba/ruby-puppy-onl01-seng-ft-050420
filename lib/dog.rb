@@ -6,6 +6,10 @@ class Dog
   @@all < self
   end
   
+  def save
+  
+  end
+  
   def all 
     @all
   end
