@@ -16,7 +16,7 @@ class Dog
   end
   
   def print_all
-    @all.collect do |dog|
+    @@all.collect do |dog|
       puts dog 
     end
   end
